@@ -8,7 +8,7 @@
 [Linear Regression Diagnostic in Python with StatsModels](https://zhiyzuo.github.io/Linear-Regression-Diagnostic-in-Python/)
 
 
-#Bayesian Statistics
+Bayesian Statistics
 --------------------------------------------------------------------------------------------------------------------------------
 [Monte Carlo estimation](https://d3c33hcgiwev3.cloudfront.net/_e6b9ab92bcaef99f2a96d0f08c0b51a3_lesson_03.html?Expires=1580256000&Signature=RrcOGX4pTeuO-HVhwf2ViCH2wvpkJ3W3hXVk61dsIpTQ~dVZiUqY1cfBv59N0bG2MxMP4zu7CHbnLjwHjabd5Pc~WTcBnX66khEISpTF-6x-NzfEPEFf2VbYzV7A93m~3U83LCQTzYcQ4U3x5anUtz0OJxBTP6tueAg2LFbXF2Y_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
