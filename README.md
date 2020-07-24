@@ -7,4 +7,4 @@
 
 [Linear Regression Diagnostic in Python with StatsModels](https://zhiyzuo.github.io/Linear-Regression-Diagnostic-in-Python/)
 
-
+[R review](https://www.ntu.edu.sg/home/cspun/R.html)
